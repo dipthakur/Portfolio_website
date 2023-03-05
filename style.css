@@ -345,7 +345,7 @@ nav .fa-solid {
     display: none;
 }
 
-@media only screen and (max-width:600px){
+@media only screen and (max-width:480px){
     .header-text{
         margin-top: 20%;
         font-size: 16px;
@@ -361,7 +361,7 @@ nav .fa-solid {
         width: 100%;
     }
     .changing-text{
-        font-size: 33px;
+        font-size: 30px;
         font-weight: 200 !important;
         font-family: 'Lato', sans-serif;
         letter-spacing: 2px;
